@@ -14,7 +14,7 @@
 <img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <br />
-
+<br />
 
 <img align="left" alt="ninja's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ninjasan420&theme=synthwave&show_icons=true&hide_border=true&include_all_commits=true" />
 
