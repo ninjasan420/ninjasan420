@@ -7,6 +7,8 @@
 
 <br />
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B71O84V)
+
 ### Sprachen und skills:
 
 
@@ -27,3 +29,4 @@
 
 [telegram]: https://t.me/ninjazan
 [discord]: https://discord.com/invite/rErSSHT
+
