@@ -7,7 +7,7 @@
 
 <br />
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B71O84V)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rootboonz)
 
 ### Sprachen und skills:
 
