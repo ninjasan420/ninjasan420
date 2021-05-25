@@ -3,8 +3,6 @@
 ### Connecten:
 
 [<img align="left" alt="ninja | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="ninja | Discord" width="22px" src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg" />][discord]
-
 <br />
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rootboonz)
