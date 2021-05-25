@@ -25,8 +25,5 @@
 <br />
 <br />
 
-<img align="left" alt="ninja's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ninjasan420&theme=synthwave&show_icons=true&hide_border=true&include_all_commits=true" />
-
 [telegram]: https://t.me/ninjazan
-[discord]: https://discord.com/invite/rErSSHT
 
